@@ -14,3 +14,6 @@ Because frogs deserve recognition. And maybe, just maybe, you’ll find this lis
 - Username generation
 - Fun with amphibian-themed projects 🐸
 
+
+<img src="https://github.com/user-attachments/assets/0c4a51a5-bce3-4136-b00f-b7b57d7d17cd" alt="FrogandToad1" width="350"/>
+
